@@ -12,6 +12,6 @@ This is a mini bash program that initializes a Github Repository for a new proje
 My github credentials are saved in a pass.json file (not uploaded to remote repository). 
 
 ## Running the bash script: 
-<bash_script_name> <project_folder_name> <project_name> [<p> (if private repo)]
+<bash_script_name> <project_folder_name> <project_name> (<p> (if private repo))
   
 I will work on further generalizing the script (storing paths in another file)
