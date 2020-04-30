@@ -14,4 +14,4 @@ My github credentials are saved in a pass.json file (not uploaded to remote repo
 ## Running the bash script: 
 <bash_script_name> <project_folder_name> <project_name> [<'p'> (if private repo)]
   
-I will work on further generalizing the script (storing paths in another file)
+I will further generalize the script such as storing paths in another file.
